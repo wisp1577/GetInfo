@@ -54,6 +54,7 @@ public class YueChe {
 	private static String jxname = null;
 	
 //	private static String check_date = null;
+	//test github
 	private static String proxyId = "0";
 	private static String dateNum = "";
 	
