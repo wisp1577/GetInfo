@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params name="params">
+	<param name="folder_count">0</param>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!-- 用于查询第7天或者第6天的车辆 -->
+	<param name="dateNum">6</param>
+	<param name="fpath_carNo">D:\develop\lq-getInfo\PrintConfigFileLQFinalCarNo\</param>
+	<param name="fpath">E:\ycsrc\exe - qiang - lq\lq-web-autocookie\bin\</param>
+	<!--   1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18#19#20#  至少有一个#号 -->
+	<param name="del_page">#</param>
+	<param name="check_date">2016-11-12</param>
+	
+	
+	
+	<param name="jxname">lq</param>
+	<param name="fpath_nouse">E:\ycsrc\exe - qiang - lq\lq-web-cookie\bin\</param>
+    <!-- <param name="userId">lq科目二</param> -->
+    <param name="kemu">a-lq</param>
+    <param name="reserve_id_array">51521265#51525904#51513866#</param>
+	<param name="reserve_id1">51508189</param>
+    <param name="reserve_id2">51517950</param>
+    <param name="date3">2016-04-15</param>
+    <param name="date4">2016-04-19</param>
+    <param name="date5">2016-04-17</param>
+    <param name="date6">2016-04-16</param>
+    <param name="date7">2016-04-18</param>
+    <param name="date8">2016-14-07</param>
+    <param name="delTimeId">58</param>
+    <param name="delTimeId2">0</param>
+    <param name="proxyId">0</param>
+</params>
